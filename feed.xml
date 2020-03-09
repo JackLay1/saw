@@ -1,0 +1,30 @@
+<?xml version="1.0"encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+	<title> Pawg Cast </title>
+	<link>https://www.sawcon.info</link>
+	<description> Podcast from the pawg boys </description>
+	<language>en-us</language>
+
+	<image>
+		<title>Pawg Cast</title>
+		<link>https://www.sawcon.infos</link>
+		<url>this is the image source url don't get them mixed up</url>
+		<width>400</width>
+		<height>400</height>
+	</image>
+
+	<item> <!-- this is for every new pod that is uploaded. Create a new one every time -->
+	<title>Insert First Pod title here</title>
+	<pubDate>Insert Publishing date here</pubDate>
+	<link>https://www.sawcon.info</link>
+	<description><![CDATA[Link to the podcast website: Filler filler <br> Twitter: filler filler]]></description>
+	<author>admin@tbd</author>
+	<comments>http://www.tbd</comments>
+	<category>Comedy</category>
+	<enclosure url="https://sawcon.info/podcast.mp4" length="tbd" type="video/mpeg" />
+
+
+
+</channel>
+</rss>
