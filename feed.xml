@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <channel>
 	<title> Pawg Cast </title>
 	<link>https://www.sawcon.info</link>
@@ -8,21 +8,33 @@
 
 	<image>
 		<title>Pawg Cast</title>
-		<link>https://www.sawcon.infos</link>
+		<link>https://www.sawcon.info</link>
 		<url>this is the image source url don't get them mixed up</url>
 		<width>400</width>
 		<height>400</height>
 	</image>
 
 	<item> 
-		<title>Insert First Pod title here</title>
+		<title>EP 1: </title>
+		<itunes:title> EP 1: </itunes:title>
 		<pubDate>Insert Publishing date here</pubDate>
-		<link>https://www.sawcon.info</link>
-		<description><![CDATA[Twitter: filler filler]]></description>
+		<link><![CDATA[http://loremispum]]></link>
+		<itunes:image href="http://" />
+		<description><![CDATA[
+			Thumo:http://twitter.com/PussyMusty
+			Jack:http://twitter.com/GardenClog
+			Jake:http://twitter.com/FoolishSuckaa
+			Cole:http://twitter.com/HolesomePosts
+		]]></description>
 		<author>admin@tbd</author>
 		<comments>http://www.tbd</comments>
 		<category>Comedy</category>
 		<enclosure url="https://sawcon.info/podcast.mp4" length="tbd" type="video/mpeg" />
+		<itunes:duration>xx:xx:xx</itunes:duration>
+		<itunes:keywords />
+		<itunes:subtitle> <![CDATA[same as description]]> </itunes:subtitle>
+		<itunes:summary><same as description></itunes:summary>
+		<itunesLepisodeType>full</itunesLepisodeType>
 	</item>
 
 	
