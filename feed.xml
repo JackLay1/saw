@@ -14,7 +14,7 @@
 		<height>400</height>
 	</image>
 
-	<item> <!-- this is for every new pod that is uploaded. Create a new one every time -->
+	<item> 
 		<title>Insert First Pod title here</title>
 		<pubDate>Insert Publishing date here</pubDate>
 		<link>https://www.sawcon.info</link>
